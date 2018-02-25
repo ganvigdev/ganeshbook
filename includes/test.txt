@@ -1,0 +1,4 @@
+
+:q
+
+This is sample text and file to commit new file
